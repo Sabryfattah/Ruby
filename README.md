@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 A collection of Useful Ruby Apps
 ==================================================================
 ab, Abridger for ebooks converted to text file chapters
@@ -52,8 +51,4 @@ update, update modified files last 10 days in selected folders.
 uptoH, backup c:/scripts c:/rd and c:/info to H:/backup
 
 wf, return a list of words frequency from a text file.
-
-
-=======
->>>>>>> origin/master
 
