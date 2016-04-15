@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 A collection of Useful Ruby Apps
 ==================================================================
 ab, Abridger for ebooks converted to text file chapters
@@ -29,4 +30,6 @@ wf, return a list of words frequency from a text file.
 
 
 
+=======
+>>>>>>> origin/master
 
