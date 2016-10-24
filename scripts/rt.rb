@@ -1,5 +1,5 @@
 ## Clear screen
-@dir = 'C:/Users/Sabry/Desktop/RUBY/Demo'
+@dir = 'Demo'
 
 def clear
 system "cls"
