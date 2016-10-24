@@ -1,4 +1,4 @@
-data = File.read("c:/pw.txt")
+data = File.read("c:/txt")
 sentences = data.split("\n")
 puts "Enter pattern separated by spaces"
 pattern = gets.chomp.upcase
